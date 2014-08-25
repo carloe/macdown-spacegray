@@ -57,16 +57,16 @@ AUTO_LINK_EMAIL
 foreground: 96b5b4
 
 REFERENCE
-foreground: bc670f
+foreground: b48ead
 
 IMAGE
-foreground: cf009a
+foreground: 8fa1b3
 
 CODE
-foreground: 008c00
+foreground: a3be8c
 
 VERBATIM
-foreground: 008c00
+foreground: a3be8c
 
 HTML_ENTITY
 foreground: 8fa1b3
